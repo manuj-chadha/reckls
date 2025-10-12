@@ -37,7 +37,6 @@ const Hero: React.FC = () => {
                 delay: 100,
                 deleteSpeed: 50,
                 loop: true,
-                html: true,
                 cursor: "|",
               }}
             />
