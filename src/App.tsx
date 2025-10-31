@@ -9,12 +9,14 @@ import Footer from "./components/Footer";
 
 const App: React.FC = () => {
   return (
+    // #232323
+    // #C3936E
     <div className="min-h-screen bg-[#121212] text-gray-100 outfit-font">
       <Navbar />
       <main>
         <Hero />
         <Pillars />
-        <CreativeStudio />
+        {/* <CreativeStudio /> */}
         <Events />
         <Contact />
       </main>
