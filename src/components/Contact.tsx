@@ -24,13 +24,13 @@ const Contact: React.FC = () => {
         <div className="mt-12 p-8 bg-teal-500/10 rounded-xl shadow-inner border border-teal-500/50">
           <h4 className="text-2xl font-bold text-gray-50 mb-4 header-font">Direct Connect</h4>
           <div className="space-y-3">
-            <p className="text-xl text-gray-200 font-medium">
+            <p className="text-lg sm:text-lg text-gray-200 font-medium">
               📞 Mobile: <a href="tel:+919352506858" className="text-teal-400 hover:text-teal-300 transition-colors">+919352506858</a>
             </p>
-            <p className="text-xl text-gray-200 font-medium">
+            <p className="text-lg sm:text-lg text-gray-200 font-medium">
               📧 Email: <a href="mailto:recklsentertainment@gmail.com" className="text-teal-400 hover:text-teal-300 transition-colors">recklsentertainment@gmail.com</a>
             </p>
-            <p className="text-xl text-gray-200 font-medium">
+            <p className="text-lg sm:text-lg text-gray-200 font-medium">
               📸 Instagram: <a href="https://www.instagram.com/reckls.entertainment/" target="_blank" rel="noreferrer" className="text-teal-400 hover:text-teal-300 transition-colors">@reckls.entertainment</a>
             </p>
           </div>
